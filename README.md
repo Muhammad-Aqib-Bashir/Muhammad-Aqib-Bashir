@@ -40,7 +40,11 @@ Here are a few of the projects I've worked on:
 
 ---
 
-Thanks for stopping by! I'm always open to collaboration and new opportunities. Let's create something amazing together!
+🤝 Open to Opportunities 
+
+I'm always looking to grow, collaborate, and take on exciting challenges. Whether it's contributing to open-source projects, working on freelance opportunities, or joining a new team, I'm eager to connect with like-minded developers and teams. If you're interested in working together or just want to chat about web development, feel free to reach out!
+
+Let's build something awesome together! 🚀
 
 
 
