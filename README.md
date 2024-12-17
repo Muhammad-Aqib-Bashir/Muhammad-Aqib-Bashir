@@ -17,10 +17,12 @@ I'm a passionate web developer with 1 year of experience in building responsive 
 ### 🌟 Projects
 Here are a few of the projects I've worked on:
 
-1. **Just Calculator(#)**
-   - A personal portfolio showcasing my work, built with HTML, CSS, and JavaScript.
-   - Features a clean and modern design with responsive layouts.
-
+1. **[Just Calculator](https://justcalc.netlify.app)**
+   - A beautifully designed web-based calculator, built with HTML, CSS, and JavaScript.
+   - Features a clean, modern design with responsive layouts and a dark/light theme toggle that adapts to system preferences.
+   - Includes basic arithmetic operations, percentage calculation, sign toggle, and history management for the last 50 calculations.
+   - Offers keyboard input support with efficient shortcuts for smooth navigation and operation.
+  
 2. **New Tab Window(#)**
    - A simple JavaScript-based app for task management.
    - Includes functionalities such as adding, removing, and marking tasks as complete.
