@@ -3,11 +3,7 @@
 I'm a passionate web developer with 1 year of hands-on experience in building responsive and interactive websites using **HTML**, **CSS**, and **JavaScript**. I enjoy learning new technologies and applying them in creative projects.
 
 ### 🔧 Technologies & Tools
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Design (Flexbox, Grid)
-- Version Control (Git, GitHub)
-- Basic SEO knowledge
-- Browser DevTools
+  [[HTML, CSS, JS, Git, TS, React, Tailwindcss.png](https://i.postimg.cc/nVXm7Yxc/Picture1.png)]
   
 ### 📚 Currently Learning
 - Node.js
