@@ -3,7 +3,7 @@
 I'm a passionate web developer with 1 year of hands-on experience in building responsive and interactive websites using **HTML**, **CSS**, and **JavaScript**. I enjoy learning new technologies and applying them in creative projects.
 
 ### 🔧 Technologies & Tools
-  [![Picture1.png](https://i.postimg.cc/nVXm7Yxc/Picture1.png)](https://postimg.cc/K4y4hT4d)
+  [![Picture1.png](https://i.postimg.cc/XvvqW477/Picture1.png)](https://postimg.cc/qN94Xf39)
   
 ### 📚 Currently Learning
 - Node.js
