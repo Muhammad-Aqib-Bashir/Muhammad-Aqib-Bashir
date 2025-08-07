@@ -8,7 +8,7 @@ I'm a passionate student from Pakistan skilled in building responsive and intera
 
 ### 🌟 Projects
 
-[Here](https://projectsbyaqib.netlify.app) is what I've worked on:
+<a href="https://projectsbyaqib.netlify.app" target="_blank" rel="noopener noreferrer">Here</a> is what I've worked on:
 
 ---
 
