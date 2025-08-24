@@ -4,7 +4,7 @@ I'm a passionate student from Pakistan skilled in building responsive and intera
 
 ### 🔧 Technologies & Tools
 
-[![HTML, CSS, JS, Git, Tailwindcss, TS and React .png](https://i.postimg.cc/x8W3zhKP/Picture1.png)](https://postimg.cc/ZvxNkfs9)
+[![HTML, CSS, JS, Git, Tailwindcss, TS and React](https://res.cloudinary.com/dpksnh6eq/image/upload/v1756017672/logos_snpleu.svg)
 
 ### 🌟 Projects
 
