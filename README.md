@@ -13,3 +13,12 @@ I'm a passionate student from Pakistan skilled in building responsive and intera
 ---
 
 Let's build something awesome together! 🚀
+
+<!--
+Copy messages for pull request:
+
+document.querySelectorAll(".Link--primary.text-bold.js-navigation-open.markdown-title").forEach((cm, i) => {
+    console.log(`${i+1}. ${cm.innerText}`);
+});
+
+-->
