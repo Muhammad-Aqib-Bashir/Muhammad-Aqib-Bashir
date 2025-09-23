@@ -14,8 +14,8 @@ I'm a passionate student from Pakistan skilled in building responsive and intera
  [Here](https://muhammadaqibbashir.netlify.app/#portfolio) is what I've worked on:
 
 ### 📬 Contact
-- Email: [your.email@example.com](mailto:muhammadaqibbashir9@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/muhammad-aqib-bashir-f35/)
+- Email: [muhammadaqibbashir9@gmail.com](mailto:muhammadaqibbashir9@gmail.com)
+- LinkedIn: [muhammad-aqib-bashir-f35](https://www.linkedin.com/in/muhammad-aqib-bashir-f35/)
 <!-- - GitHub: [Your GitHub](https://github.com/yourusername) -->
 
 ---
