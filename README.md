@@ -15,7 +15,7 @@ I'm a passionate student from Pakistan skilled in building responsive and intera
 
 ### 📬 Contact
 - Email: [muhammadaqibbashir9@gmail.com](mailto:muhammadaqibbashir9@gmail.com)
-- LinkedIn: [muhammad-aqib-bashir-f35](https://www.linkedin.com/in/muhammadaqibbashir-f35/)
+- LinkedIn: [muhammadaqibbashir-f35](https://www.linkedin.com/in/muhammadaqibbashir-f35/)
 
  ##
 
