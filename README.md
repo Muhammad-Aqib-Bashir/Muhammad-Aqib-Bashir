@@ -16,7 +16,7 @@ I'm a passionate student from Pakistan skilled in building responsive and intera
 ### 📬 Contact
 - Email: [muhammadaqibbashir9@gmail.com](mailto:muhammadaqibbashir9@gmail.com)
 - LinkedIn: [muhammadaqibbashir-f35](https://www.linkedin.com/in/muhammadaqibbashir-f35/)
-- UpWork: [Hire me as a freelancer](https://www.upwork.com/freelancers/~010bab4e95d96b0941?mp_source=share)
+- UpWork: [Hire me as a freelancer](https://www.upwork.com/freelancers/~010bab4e95d96b0941)
 
  ##
 
