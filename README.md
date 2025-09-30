@@ -1,7 +1,7 @@
 
  ![](https://komarev.com/ghpvc/?username=Muhammad-Aqib-Bashir&color=06b6d4)
 
-## Hi, I'm Muhammad Aqib Bashir! 👋
+# Hi, I'm Muhammad Aqib Bashir! 👋
 
 I'm a passionate student from Pakistan skilled in building responsive and interactive websites.
 
@@ -14,9 +14,9 @@ I'm a passionate student from Pakistan skilled in building responsive and intera
  [Here](https://muhammadaqibbashir.netlify.app/#portfolio) is what I've worked on:
 
 ### 📬 Contact
-- Email: [muhammadaqibbashir9@gmail.com](mailto:muhammadaqibbashir9@gmail.com)
-- LinkedIn: [muhammadaqibbashir-f35](https://www.linkedin.com/in/muhammadaqibbashir-f35/)
-- UpWork: [Hire me as a freelancer](https://www.upwork.com/freelancers/~010bab4e95d96b0941)
+- **Email:** [muhammadaqibbashir9@gmail.com](mailto:muhammadaqibbashir9@gmail.com)
+- **LinkedIn:** [muhammadaqibbashir-f35](https://www.linkedin.com/in/muhammadaqibbashir-f35/)
+- **UpWork:** [Hire me as a freelancer](https://www.upwork.com/freelancers/~010bab4e95d96b0941)
 
  ##
 
