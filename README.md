@@ -14,7 +14,7 @@ I'm a passionate student from Pakistan, skilled in building responsive and inter
   All my projects are available on my [portfolio website](https://muhammadaqibbashir.netlify.app/projects).
 
 ### 📬 Contact
-- **Email:** [muhammadaqibbashir9@gmail.com](mailto:muhammadaqibbashir9@gmail.com)
+- **Email:** [muhammadaqibbashir.dev@gmail.com](mailto:muhammadaqibbashir.dev@gmail.com)
 - **LinkedIn:** [muhammadaqibbashir-f35](https://www.linkedin.com/in/muhammadaqibbashir-f35/)
 - **UpWork:** [As a freelancer](https://www.upwork.com/freelancers/~010bab4e95d96b0941)
 
