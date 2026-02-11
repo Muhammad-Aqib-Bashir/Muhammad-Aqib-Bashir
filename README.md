@@ -3,7 +3,7 @@
 
 # Hi, I'm Muhammad Aqib Bashir! 👋
 
-I'm a passionate student from Pakistan, skilled in building responsive and interactive websites.
+IT student and full-stack developer from Pakistan.
 
 ### 🔧 Technologies & Tools 
 
@@ -29,6 +29,6 @@ document.querySelectorAll(".Link--primary.text-bold.js-navigation-open.markdown-
     console.log(`${i+1}. ${cm.innerText}`);
 });
 
-http://172.16.15.131:4000/home -> UOS Resurch
+http://172.16.15.131:4000/home -> UOS Research
 
 -->
