@@ -11,7 +11,7 @@ IT student and full-stack developer from Pakistan.
 
 ### 🌟 Projects
 
-  All my projects are available on my [portfolio website](https://muhammadaqibbashir.netlify.app/projects).
+  All are here: [portfolio website](https://muhammadaqibbashir.netlify.app/projects).
 
 ### 📬 Contact
 - **Email:** [muhammadaqibbashir.dev@gmail.com](mailto:muhammadaqibbashir.dev@gmail.com)
