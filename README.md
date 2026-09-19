@@ -10,13 +10,20 @@ I'm a fullstack developer with 2+ years of experience. I build web apps, e-comme
 
 ### 🌟 Projects
 
-All are here: [portfolio website](https://muhammadaqibbashir.netlify.app/projects).
+All projects are on my [portfolio website](https://muhammadaqibbashir.netlify.app/projects).
 
 ### 📬 Contact
-
+    
 - **Email:** [muhammadaqibbashir.dev@gmail.com](mailto:muhammadaqibbashir.dev@gmail.com)
-- **LinkedIn:** [muhammadaqibbashir-f35](https://www.linkedin.com/in/muhammadaqibbashir-f35/)
-- **UpWork:** [As a freelancer](https://www.upwork.com/freelancers/~010bab4e95d96b0941)
+- **LinkedIn:** [muhammadaqibbashir-dev](https://www.linkedin.com/in/muhammadaqibbashir-dev/)
+
+### 💼 Hire me:
+
+I’m available for freelance projects and collaborations across multiple platforms. Feel free to explore my profiles or reach out to discuss your next project.
+
+* **Upwork:** [https://www.upwork.com/freelancers/~010bab4e95d96b0941](https://www.upwork.com/freelancers/~010bab4e95d96b0941)
+* **Freelancer:** [https://www.freelancer.com/u/mAqibBashir](https://www.freelancer.com/u/mAqibBashir)
+
 
 ##
 
